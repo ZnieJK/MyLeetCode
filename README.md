@@ -1,2 +1,4 @@
 # MyLeetCode
-This is the repo to store my leetcode practice solution
+This is the repo to store my LeetCode practice solution 
+
+... to be updated
